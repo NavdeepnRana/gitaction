@@ -1,0 +1,14 @@
+{
+  "name": "node-app-deploy-gh-actions",
+  "version": "1.0.0",
+  "description": "Node App with GitHub Actions",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Tests Passed\""
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

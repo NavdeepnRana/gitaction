@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 8085;
 
 app.get("/", (req, res) => {
   res.json({
-    message: "Hello from GitHub Actions CI/CD"
+    message: "Hello from GitHub Actions CI/CD okey"
   });
 });
 
